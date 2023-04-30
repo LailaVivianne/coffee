@@ -1,0 +1,23 @@
+Mi proyecto es un landing page sobre una cafeteria.A continuacion voy a detallar lo que hize en cada parte.
+En el proyecto he trabajado de 2 modos, uno creando una clase para los estilos que se repetian y asi solo los añadia al html , 
+y para las cosas que necesitavan una descripcion de estilo aparte lo colocaba todo en una clase.
+
+
+Header->
+En el header añadi un div con la lista de mis secciones, ariba a la izquerda.
+En la siguiente seccion añadi los iconos de las redes sociales.
+
+Body->
+En el body decidi hacer 2 menus uno con caffes y otro con pasteles, y que al pulsar los botones saliera o uno o el otro menu.
+
+Tambien en el body hize una seccion con una descripcion que se llama "Sobre nosotros". Decidi hacer una animacion al titulo, que al recargar la pagina el titulo se deslice hasta el centro.
+Esta animacion la hize con la ayuda del @keyframes slidein, una animacion sencilla pero quise añadir algo asi a mi proyecto.
+
+En la siguiente seccion decidi hacer un apartado de reseñas, que al hacer click en el boton cambie y muestre la siguiente reseña.
+
+
+Footer
+Para acabar mi pagina coloque por ulimo los datos de contacto y la direccion.
+
+
+
